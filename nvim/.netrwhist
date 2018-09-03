@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/patrik/workspace/volvocars/csp'
+let g:netrw_dirhist_2='/home/patrik/workspace/volvocars/csp/external'
+let g:netrw_dirhist_3='/home/patrik/workspace/volvocars/csp/external/DoIP_Edge'
+let g:netrw_dirhist_4='/home/patrik/.config/awesome/net_widgets'
